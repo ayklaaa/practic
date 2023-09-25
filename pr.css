@@ -72,7 +72,7 @@ p {
 .big__block {
   display: flex;
   column-gap: 20px;
-  padding: 100px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
 }
 .main__rectangle--left {
   width: 250px;
@@ -88,7 +88,7 @@ p {
   background: #703d3d;
   display: flex;
   column-gap: 20px;
-  margin: 170px 0px 0px -270px;
+  margin: 150px 0px 0px -270px;
 }
 .main__rectangle--top {
   width: 250px;
@@ -96,15 +96,15 @@ p {
   background: #db7a7aac;
   display: flex;
   column-gap: 20px;
-  margin: 340px 0px 0px -270px;
+  margin: 300px 0px 0px -270px;
 }
 .main__text {
   display: flex;
-  margin: -490px 800px 0px 400px;
+  margin: 0px 800px 0px 400px;
 }
 .text__center {
   display: flex;
-  margin: -490px 750px 0px 450px;
+  margin: -450px 750px 0px 450px;
   column-gap: 20px;
   flex-direction: column;
 }
@@ -125,9 +125,9 @@ p {
   display: flex;
   gap: 100px;
 }
-.main__block--left {
+.mainn__block--left {
   width: 600px;
-  margin: -100px 0px 0px 100px;
+  margin: -50px 0px 0px 100px;
   display: flex;
   flex-direction: column;
 }
@@ -149,7 +149,7 @@ p {
   flex-direction: column;
 }
 .main__blockk--right {
-  margin: -300px 0px 0px 750px;
+  margin: -400px 0px 0px 750px;
 }
 .someClass {
   display: flex;
